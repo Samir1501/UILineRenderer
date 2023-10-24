@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f55bdcff0de704193b485f5610215c, type: 3}
+  m_Name: UILineSettings
+  m_EditorClassIdentifier: 
+  gizmoSize: 0.1
+  handleColor: {r: 0, g: 0.59133935, b: 1, a: 1}
+  hoverColor: {r: 1, g: 0.85574234, b: 0.48584908, a: 1}
+  handleLineColor: {r: 0, g: 0, b: 0, a: 0.49019608}
+  lineColor: {r: 0.38124943, g: 0, b: 1, a: 1}
