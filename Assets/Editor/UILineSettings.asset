@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68f55bdcff0de704193b485f5610215c, type: 3}
   m_Name: UILineSettings
   m_EditorClassIdentifier: 
-  gizmoSize: 0.1
-  handleColor: {r: 0, g: 0.59133935, b: 1, a: 1}
-  hoverColor: {r: 1, g: 0.85574234, b: 0.48584908, a: 1}
-  handleLineColor: {r: 0, g: 0, b: 0, a: 0.49019608}
-  lineColor: {r: 0.38124943, g: 0, b: 1, a: 1}
+  curveHandeSettings:
+    gizmoSize: 0.1
+    handleColor: {r: 0, g: 0.5999999, b: 1, a: 1}
+    connectionPointColor: {r: 0.5, g: 0.8, b: 0, a: 1}
+    silhouetteColor: {r: 1, g: 0.9, b: 0.6, a: 0.2}
+    hoverColor: {r: 1, g: 0.9, b: 0.6, a: 1}
+    handleLineColor: {r: 0, g: 0, b: 0, a: 1}
+    lineColor: {r: 0.81411886, g: 0, b: 1, a: 1}
